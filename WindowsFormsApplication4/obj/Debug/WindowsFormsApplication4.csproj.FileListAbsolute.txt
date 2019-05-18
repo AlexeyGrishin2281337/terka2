@@ -1,0 +1,51 @@
+D:\Klimov Pavel\Алгоритмы и структуры данных\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\Klimov Pavel\Алгоритмы и структуры данных\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Klimov Pavel\Алгоритмы и структуры данных\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Klimov Pavel\Алгоритмы и структуры данных\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\Klimov Pavel\Алгоритмы и структуры данных\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Klimov Pavel\Алгоритмы и структуры данных\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Klimov Pavel\Алгоритмы и структуры данных\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\Klimov Pavel\Алгоритмы и структуры данных\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Klimov Pavel\Алгоритмы и структуры данных\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Ya_Terochka.resources
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MagazinForm.resources
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.My_Kabinet.resources
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Skins.resources
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Terochka.resources
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Ya_Terochka.resources
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MagazinForm.resources
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.My_Kabinet.resources
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Skins.resources
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Terochka.resources
+C:\Users\Student\1\yaterochka\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Ya_Terochka.resources
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MagazinForm.resources
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.My_Kabinet.resources
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Skins.resources
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Terochka.resources
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\yaterochka-master\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.ykea.resources
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.ykea.resources
+C:\Users\Student\Desktop\yaterochka-master1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
